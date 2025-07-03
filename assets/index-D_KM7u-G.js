@@ -3021,7 +3021,7 @@ This typically indicates that your device does not have a healthy Internet conne
                 page-break-after: always; /* 每頁後強制分頁 */
                 box-shadow: none !important;
                 border: none !important;
-                padding: 10mm 15mm !important; /* 內容的內部邊距 */
+                padding: 15mm !important; /* 內容的內部邊距 */
               }
 
               .a4-page:last-of-type {
